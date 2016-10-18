@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SQLitePractice</string>
+    <string name="name_hint">Enter name:</string>
+    <string name="password_hint">Enter password:</string>
+    <string name="login_button">Login</string>
+    <string name="check_button">Check</string>
+
+
+</resources>
