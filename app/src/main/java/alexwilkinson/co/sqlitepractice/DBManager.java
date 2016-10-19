@@ -18,6 +18,7 @@ public class DBManager {
     //Google mandated formatting for the create request
     static final String dbName = "Employees";
     static final String tableName ="Login";
+    static final String colID = "ID";
     static final String colUsername = "Username";
     static final String colPassword = "Password";
     static final int dbVersion = 1;
